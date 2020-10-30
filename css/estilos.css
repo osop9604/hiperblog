@@ -2,7 +2,7 @@ body
 {
     color: #333;
     text-align: left;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: Arial;
     font-size: 16px;
     margin: 0;
     padding: 0;
@@ -20,7 +20,7 @@ body
 
 #cabecera #tagline
 {
-    margin: 0 0 0 0;
+    padding 0 0 0 1em;
     font-weight: normal;
     font-size: 0.8em;
 }
